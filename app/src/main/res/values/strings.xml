@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weekly_forecast">WeeklyForecast</string>
+    <string name="title_activity_current_forecast">CurrentForecast</string>
+    <string name="title_activity_select_city">SelectCity</string>
+</resources>
